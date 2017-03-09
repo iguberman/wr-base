@@ -16,7 +16,6 @@ PR = "r2"
 ALLOW_EMPTY_${PN} = "1"
 
 RDEPENDS_${PN} = " \
-    avahi-daemon \
     bind \
     bind-utils \
     curl \
